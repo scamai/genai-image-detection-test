@@ -1,0 +1,3 @@
+requests
+python-dotenv  # Optional, for .env support if needed in the future
+tqdm 
