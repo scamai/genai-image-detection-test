@@ -15,4 +15,9 @@ __pycache__/
 .idea/
 
 # Output files
-results.csv 
+results.csv
+
+# Image files
+*.png
+*.jpg
+*.jpeg 
